@@ -1,6 +1,6 @@
 # Personal Electric Vehicle Reservation System
 
-A Java console application for managing reservations of personal electric vehicles (bikes, scooters, and skateboards) at university charging stations. Built as a university project for UPR (Universidad de Puerto Rico).
+A Java console application for managing reservations of personal electric vehicles (bikes, scooters, and skateboards) at university charging stations. Built as a two-person academic project for ICOM 4035 (data structures) at UPRM (Universidad de Puerto Rico, Mayagüez).
 
 ## Overview
 
@@ -108,9 +108,12 @@ The application menu is in Spanish. Main options:
 - Owner must be registered before adding a vehicle
 - Vehicle must be placed at one of the predefined stations
 
-## Author
+## Authors
 
-Jorge Malik — University project (UPR)
+- Jorge Burgos
+- Malik
+
+Two-person academic project for ICOM 4035 (data structures) at UPRM.
 
 ## License
 
