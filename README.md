@@ -108,9 +108,9 @@ The application menu is in Spanish. Main options:
 - Owner must be registered before adding a vehicle
 - Vehicle must be placed at one of the predefined stations
 
-## Author
+## Authors
 
-Jorge Malik — University project (UPR)
+Jorge and Malik — University project (UPR)
 
 ## License
 
